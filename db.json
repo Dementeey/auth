@@ -1,0 +1,9 @@
+{
+  "user":{
+    "userName": "MR.ROBOT",
+    "email": "admin@gmail.com",
+    "avatar": "https://cdn.iconscout.com/icon/free/png-256/avatar-370-456322.png",
+    "accessToken": "accessToken12345",
+    "refreshToken": "refreshToken12345"
+  }
+}
